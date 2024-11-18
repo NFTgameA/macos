@@ -618,43 +618,48 @@ li > .menu__container > .grid__controling .control_center--grid {
 .dock .icon:nth-child(3):hover::after {
   content: "App store";
 }
-
 .dock .icon:nth-child(4):hover::after {
-  content: "Message";
+  content: "Buy Now";
 }
-
 .dock .icon:nth-child(5):hover::after {
-  content: "Itunes music";
+  content: "Telegram";
 }
-
 .dock .icon:nth-child(6):hover::after {
-  content: "VScode";
+  content: "CA:TBA";
 }
 
 .dock .icon:nth-child(7):hover::after {
-  content: "Mail";
+  content: "Itunes music";
 }
 
 .dock .icon:nth-child(8):hover::after {
-  content: "Photos";
+  content: "VScode";
 }
 
 .dock .icon:nth-child(9):hover::after {
-  content: "maps";
+  content: "Mail";
 }
 
 .dock .icon:nth-child(10):hover::after {
-  content: "Calculator";
+  content: "Photos";
 }
 
 .dock .icon:nth-child(11):hover::after {
-  content: "notes";
+  content: "Maps";
 }
 
 .dock .icon:nth-child(12):hover::after {
+  content: "Calculator";
+}
+
+.dock .icon:nth-child(13):hover::after {
+  content: "notes";
+}
+
+.dock .icon:nth-child(14):hover::after {
   content: "terminal";
 }
-.dock .icon:nth-child(13):hover::after {
+.dock .icon:nth-child(15):hover::after {
   content: "Preferences";
 }
 
